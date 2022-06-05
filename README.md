@@ -1,2 +1,2 @@
 # python_practice
-파이썬 연습
+파이썬 공부중

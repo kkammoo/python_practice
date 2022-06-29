@@ -1,7 +1,7 @@
 from django.shortcuts import render
 from rest_framework.views import APIView
 
-class Main(APIView):
+class Sub(APIView):
     def get(self, request):
         print("get으로 호쿨")
         return render(request, "instagramClone/main.html")
